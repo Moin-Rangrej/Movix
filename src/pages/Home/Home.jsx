@@ -8,9 +8,7 @@ const Home = () => {
     <div className='homePage'>
       <Herobanner />
       <Trending />
-      <div style={{height: 1000}}>
-
-      </div>
+      
     </div>
   )
 }
